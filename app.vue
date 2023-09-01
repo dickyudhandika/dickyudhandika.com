@@ -1,11 +1,5 @@
-<template>
-  <div>
-    <NuxtWelcome />
-  </div>
+ <template>
+    <div>
+        <p>hello world</p>
+    </div>
 </template>
-
-<script>
-export default {
-  middleware: ['personalwebsite']
-}
-</script>
